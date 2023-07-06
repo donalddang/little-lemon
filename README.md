@@ -1,6 +1,5 @@
 # little-lemon
 
-Wireframes: 
 
 
  
